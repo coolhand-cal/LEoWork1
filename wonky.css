@@ -1,0 +1,8 @@
+h1 {
+  color: red;
+}
+
+.imageBox {
+  display: flex;
+  justify-content: center;
+}
